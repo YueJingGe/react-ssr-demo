@@ -1,0 +1,38 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/F1blTsVEdoNh-amHwLKL7/pages/_app.js": 2,
+      "static/F1blTsVEdoNh-amHwLKL7/pages/_error.js": 3,
+      "static/F1blTsVEdoNh-amHwLKL7/pages/about.js": 4,
+      "static/F1blTsVEdoNh-amHwLKL7/pages/app.js": 5,
+      "static/F1blTsVEdoNh-amHwLKL7/pages/find.js": 6,
+      "static/F1blTsVEdoNh-amHwLKL7/pages/home.js": 7,
+      "static/F1blTsVEdoNh-amHwLKL7/pages/index.js": 8,
+      "static/runtime/main.js": 9
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js ../components/address": 10,
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js ../components/connect": 11
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

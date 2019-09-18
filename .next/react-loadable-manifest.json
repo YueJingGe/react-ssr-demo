@@ -1,0 +1,18 @@
+{
+  "../components/address": [
+    {
+      "id": "Ya6G",
+      "name": "./components/address.js",
+      "file": "static/chunks/10.1aa15a38f6f36b738c0d.js",
+      "publicPath": "static/chunks/10.1aa15a38f6f36b738c0d.js"
+    }
+  ],
+  "../components/connect": [
+    {
+      "id": "qbge",
+      "name": "./components/connect.js",
+      "file": "static/chunks/11.4bb1efcf172fb5577216.js",
+      "publicPath": "static/chunks/11.4bb1efcf172fb5577216.js"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"0.js","sources":["webpack:///./components/address.js"],"sourcesContent":["export default () => <p>地址：上海</p>;\n"],"mappings":";;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;;A","sourceRoot":""}
